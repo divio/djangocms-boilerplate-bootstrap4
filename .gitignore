@@ -24,3 +24,6 @@ npm-debug.log
 package-lock.json
 
 local.sqlite
+
+.aldryn
+.divio
