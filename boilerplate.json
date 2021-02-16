@@ -1,7 +1,7 @@
 {
   "identifier": "bootstrap4",
   "package-name": "djangocms-bootstrap4",
-  "version": "4.5.3.1",
+  "version": "4.6.0.0",
   "templates": [["default.html", "Default"]],
   "excluded": ["LICENSE.txt", "*.rst"]
 }

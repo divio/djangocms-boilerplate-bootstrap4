@@ -9,7 +9,7 @@ Designed for everyone, everywhere. Bootstrap makes front-end web development
 faster and easier. It's made for folks of all skill levels, devices of all
 shapes, and projects of all sizes.
 
-Up to date with `Bootstrap <http://getbootstrap.com/>`_ **4.5.3**.
+Up to date with `Bootstrap <http://getbootstrap.com/>`_ **4.6.0**.
 
 This boilerplate is compatible with `Divio Cloud <http://www.divio.com/>`_.
 
